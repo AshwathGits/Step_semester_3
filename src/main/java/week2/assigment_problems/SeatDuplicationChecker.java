@@ -1,3 +1,4 @@
+
 class SeatDuplicationChecker {
 
     static void checkDuplicateSeats(int[] seatNumbers) {

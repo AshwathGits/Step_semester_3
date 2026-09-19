@@ -1,4 +1,4 @@
-package string.assigment_problems;
+package week1.assigment_problems;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package string.assigment_problems;
+package week1.assigment_problems;
 
 public class MovieReviewWordLengthProfiler {
 

@@ -1,5 +1,4 @@
-package string.assigment_problems;
-
+package week1.assigment_problems;
 public class WarehouseInventoryBalancer {
 
     public static void analyzeInventory(int[] sectionA, int[] sectionB) {
